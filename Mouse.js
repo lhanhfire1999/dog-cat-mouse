@@ -1,3 +1,4 @@
-function Mouse(name){
-this.name=name;
+function Mouse(color){
+this.color=color;
 }
+module.exports=Mouse;
