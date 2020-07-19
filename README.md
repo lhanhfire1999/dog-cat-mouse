@@ -15,5 +15,5 @@ Lesson 3
 -respository
 
 Lesson 4
--Checkout: discard changes at working directive
--Reset: Moved STAGING AREA down RESPOSITORY
+-Checkout/restore: discard changes at working directive
+-Reset/restore --staged: Moved STAGING AREA down RESPOSITORY
