@@ -30,10 +30,10 @@ Lesson 5 Branch/Merge
 	+ git merg B(features/dog-class)
 
 Lesson 6 Cancel Commit
--git reset
-	+ --soft <to_commit>: move file was commited from RESPOSITORY down STAGING AREA 
-	+ --mixed <to_commit>: move file was commited from RESPOSITORY down WORKING DIRECTORY
-	+ -- hard <to_commit>: Delete file was commited
+-git reset --
+	+ soft <to_commit>: move file was commited from RESPOSITORY down STAGING AREA 
+	+ mixed <to_commit>: move file was commited from RESPOSITORY down WORKING DIRECTORY
+	+ hard <to_commit>: Delete file was commited
 
 Lesson 7 Revert 
 - Back to status before
@@ -43,3 +43,5 @@ Lesson 8 .gitignore
 -Files be named in this folder willn't commit
 - npm chalk: Highlight 
 
+Lesson 9 Github 
+- Push project to Github
