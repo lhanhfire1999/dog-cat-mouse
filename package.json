@@ -1,0 +1,14 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Lesson 1 - git init - git status - git add - git commit",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

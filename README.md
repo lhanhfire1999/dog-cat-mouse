@@ -38,3 +38,8 @@ Lesson 6 Cancel Commit
 Lesson 7 Revert 
 - Back to status before
 - git revert (commit)
+
+Lesson 8 .gitignore
+-Files be named in this folder willn't commit
+- npm chalk: Highlight 
+
