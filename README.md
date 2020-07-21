@@ -44,4 +44,8 @@ Lesson 8 .gitignore
 - npm chalk: Highlight 
 
 Lesson 9 Github 
-- Push project to Github
+- git push: Push commit to Github.
+
+Lesson 10 Credential ( inform login)
+- git config --global crendential.helper "cache --timeout=18000"
+=> Save credential in 5 hours at RAM 
