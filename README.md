@@ -49,3 +49,7 @@ Lesson 9 Github
 Lesson 10 Credential ( inform login)
 - git config --global crendential.helper "cache --timeout=18000"
 => Save credential in 5 hours at RAM 
+
+Lesson 11 
+- git clone <https>
+- git pull
