@@ -65,3 +65,20 @@ Lesson 12 pull request
 + approve commit
 - 5 Merge to master
 
+Lesson 13 resolve conflict 
+- changing same file + sameline
+- A delete file X, B modified file X
+
+Mothod 1:
+- git checkout master
+- git pull 
+- git checkout features....
+1.Use
+- git rebase master
+2.Resolve conflict
+- git add . 
+3.Push again with -f
+- git push origin features... -f
+
+
+
