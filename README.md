@@ -45,6 +45,7 @@ Lesson 8 .gitignore
 
 Lesson 9 Github 
 - git push: Push commit to Github.
+- git push -u origin master
 
 Lesson 10 Credential ( inform login)
 - git config --global crendential.helper "cache --timeout=18000"
@@ -53,3 +54,7 @@ Lesson 10 Credential ( inform login)
 Lesson 11 
 - git clone <https>
 - git pull
+
+Lesson 12 pull request
+- git checkout -b <feature/horse-class> : Create new branch
+- 2.git push origin <feature...>
