@@ -61,6 +61,7 @@ Lesson 12 pull request
 - 3 create pull request ( Lesson 13)
 - 4 review code
 + review code online on github
-+ fetch branch into local to test offline ( optinal)
++ fetch branch into local to test offline ( optinal) (Lesson 14)
 + approve commit
 - 5 Merge to master
+
