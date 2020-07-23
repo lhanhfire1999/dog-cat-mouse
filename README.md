@@ -56,5 +56,11 @@ Lesson 11
 - git pull
 
 Lesson 12 pull request
-- git checkout -b <feature/horse-class> : Create new branch
-- 2.git push origin <feature...>
+- 1 git checkout -b <feature/horse-class> : Create new branch
+- 2 git push origin <feature...>
+- 3 create pull request ( Lesson 13)
+- 4 review code
++ review code online on github
++ fetch branch into local to test offline ( optinal)
++ approve commit
+- 5 Merge to master
