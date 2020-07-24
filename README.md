@@ -65,7 +65,7 @@ Lesson 12 pull request
 + approve commit
 - 5 Merge to master
 
-Lesson 13 resolve conflict 
+Lesson 15 resolve conflict 
 - changing same file + sameline
 - A delete file X, B modified file X
 
