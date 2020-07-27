@@ -69,7 +69,7 @@ Lesson 15 resolve conflict
 - changing same file + sameline
 - A delete file X, B modified file X
 
-Mothod 1:
+Mothod 1: git rebase
 - git checkout master
 - git pull 
 - git checkout features....
@@ -79,6 +79,14 @@ Mothod 1:
 - git add . 
 3.Push again with -f
 - git push origin features... -f
+Method 2 :
+1.git pull <master>
+2.git checkout <branch>
+3.git merge master
+- Merge updated master to features branch
+4.resolve conflict
+5 commit and push
+
 
 
 
